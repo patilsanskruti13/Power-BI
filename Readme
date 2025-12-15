@@ -1,0 +1,51 @@
+📊 Power BI Data Analytics Repository
+📌 **Overview**
+
+This repository contains a collection of Power BI dashboards and data analytics projects that demonstrate practical skills in 
+data visualization, business intelligence, and data-driven decision making. It is intended as a learning resource, practice platform,
+and portfolio showcase for Power BI learners and professionals.
+
+🎯 Objectives
+Build a strong foundation in Power BI
+Practice real-world data analysis scenarios
+Showcase dashboards for portfolio and interview preparation
+Apply best practices in data modeling and visualization
+
+🔄 Workflow Covered
+The projects follow the complete end-to-end Power BI workflow:
+Data collection from Excel, CSV, SQL, and web sources
+Data cleaning and transformation using Power Query
+Data modeling with relationships and schema design
+Calculations using DAX
+Interactive dashboard creation and insight generation
+
+🛠️ Key Concepts Used
+ETL (Extract, Transform, Load)
+Data Modeling
+DAX Measures & Calculated Columns
+Time Intelligence (YTD, MTD, QTD)
+KPI Tracking
+Interactive visuals (Slicers, Filters, Drill-throughs, Tooltips)
+
+📈 Dashboard Focus Areas
+Sales Analysis
+Customer Behavior
+Financial Performance
+Operational & Trend Analysis
+
+👥 Who This Repository Is For
+Beginners learning Power BI
+Students building analytics portfolios
+Data analysts seeking hands-on practice
+Professionals preparing for Power BI interviews
+
+
+🚀 Future Updates
+More datasets
+Advanced DAX scenarios
+Industry-specific dashboards
+
+📌 Tools Used
+Power BI Desktop
+Excel / CSV
+SQL
